@@ -1,6 +1,8 @@
 # The Blockduino Manifesto
 Blockduino is just a board and software to control the operations of machines and other hardware connected to it, from a smart-contract in the Ethereum blockchain. But it has a very ambitious goal.
 
+[![Preliminary demo](https://img.youtube.com/vi/7ooOoz93or8/0.jpg)](https://youtu.be/7ooOoz93or8) 
+
 ### Goal
 Goal of the Blockduino project is to change the way hardware and products are designed, manufactured and sold. It is inspired by the tenets of the [circular economy](https://www.ellenmacarthurfoundation.org/circular-economy), for a better world with a sustainable use of natural resources, reduced waste and consumerism. It is self-evident to the perceptive mind that the current way of depleating natural resources to make products that are not designed to last or, in most cases even to be repaired or refurbished, cannot be sustained in the long-term.
 
