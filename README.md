@@ -1,6 +1,7 @@
 # The Blockduino Manifesto
 Blockduino is just a board and software to control the operations of machines and other hardware connected to it, from a smart-contract in the Ethereum blockchain. But it has a very ambitious goal.
 
+### Preliminary video presentation
 [![Preliminary demo](https://img.youtube.com/vi/7ooOoz93or8/0.jpg)](https://youtu.be/7ooOoz93or8) 
 
 ### Goal
