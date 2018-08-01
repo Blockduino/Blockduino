@@ -24,7 +24,7 @@ The Blockduino core contract, using the request ID, dispatches the response call
 
 The diagram below illustrates the process for the generate() function in the [Randomizer smart-contract](https://github.com/Blockduino/Randomizer/blob/master/Randomizer.sol):
 
-<img src="https://github.com/Blockduino/Blockduino/blob/master/img/RPC.jpg" width="500" height="400">
+<img src="https://github.com/Blockduino/Blockduino/blob/master/img/RPC.jpg" width="450" height="400">
 
 ### Blockduino Interface
 
