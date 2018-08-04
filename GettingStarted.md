@@ -12,7 +12,7 @@ Before using a Blockduino in a smart-contract and as part of the onboarding proc
 
 The Blockduino core contract and SDK provide high-level functions to control a Blockduino hardware from a smart-contract. The Blockduino SDK is the base class of any smart-contract for Blockduino and the core contract is deployed in the public Ethereum blockchain.
 
-<img src="https://github.com/Blockduino/Blockduino/blob/master/img/BlockduinoBigPicture.jpg" width="500" height="400">
+<img src="img/BlockduinoBigPicture.png">
 
 Under the hood, each function in the Blockduino SDK results in a Remote Procedure Call (RPC) to the Blockduino board run-time. The run-time parses the request and takes the corresponding action, which in most cases is to execute instructions that operate on the Blockduino hardware.
 
