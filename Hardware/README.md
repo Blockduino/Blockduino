@@ -41,7 +41,7 @@ It features:
 
 ## Block Diagram
 
-<img src="img/BoardBlockDiagram.png">
+<img src="../img/BoardBlockDiagram.png">
 
 ## Communication Interfaces
 
