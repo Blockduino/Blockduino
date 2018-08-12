@@ -39,6 +39,10 @@ It features:
 | Expansion |   One mikroBUS interface       | 2x8-pin female connector |
 | Expansion |   One Pmod connector       | 6-pin female connector |
 
+## Block Diagram
+
+<img src="img/BoardBlockDiagram.png">
+
 ## Communication Interfaces
 
 #### Ethernet  10/100 (GMAC) Port
