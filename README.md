@@ -25,4 +25,6 @@ The Blockduino SDK provides high-level functions reminiscent of the way of writi
 ### Open source movement
 Blockduino is an open-source project open to external contributions and we invite anyone who shares this goal to join us and to give us suggestions.
 
+[Getting Started with Blockduino](https://github.com/Blockduino/Blockduino/blob/master/GettingStarted.md)
+
 _The Blockduino Founding Team_
